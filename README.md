@@ -44,9 +44,9 @@
   🎨 SNS & Portfolio 🎨
 </h3>
 <div>
-  <a href="https://www.naver.com"><img src="https://img.shields.io/badge/PortFolio-4285F4?style=flat&logo=Files&logoColor=white"/></a>
-  <a href="mesudal.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-  <a href="mesudal.notion.site"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
+  <a href="https://github.com/mesudal/CodeFarm_Spring"><img src="https://img.shields.io/badge/PortFolio-4285F4?style=flat&logo=Files&logoColor=white"/></a>
+  <a href="https://mesudal.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href="https://blog.naver.com/mesudal"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 </div>
 
 <h1 dir="auto"></h1>
