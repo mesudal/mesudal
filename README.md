@@ -54,6 +54,6 @@
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mesudal&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesudal&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mesudal&show_icons=true&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesudal&theme=onedark">
 </div>
