@@ -44,7 +44,7 @@
   🎨 SNS & Portfolio 🎨
 </h3>
 <div>
-  <img src="https://img.shields.io/badge/PortFolio-4285F4?style=flat&logo=Files&logoColor=white"/>(http://naver.com)
+  [<img src="https://img.shields.io/badge/PortFolio-4285F4?style=flat&logo=Files&logoColor=white"/>](http://naver.com)
   <a href="mesudal.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <a href="mesudal.notion.site"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 </div>
